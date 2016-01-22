@@ -1,4 +1,4 @@
-## R Programming, programming assignment 2
+## R Programming, Coursera, programming assignment 2
 
 ## The two functions in this file create a special matrix object for which the inverse
 ## can be stored in the cache. The function makeCacheMatrix creates the matrix object
